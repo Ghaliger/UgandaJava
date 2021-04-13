@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="set_to_red">Convert to red!</string>
+    <string name="set_to_blue">Convert to blue!</string>
+</resources>
